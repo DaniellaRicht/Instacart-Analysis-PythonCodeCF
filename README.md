@@ -18,20 +18,20 @@ Instacart, an established online grocery platform, seeks to refine its marketing
 ## Data Source
 The project leverages open-source datasets from Instacart, complemented by specially created customer datasets*. These resources are integral to addressing the outlined business questions. 
 *The customer dataset and column 'prices' were added to the original data set for learning purposes of the Career Foundry course.
-● orders
-● orders_products_prior
-● products
-● customers
-● departments
+- orders
+- orders_products_prior
+- products
+- customers
+- departments
 - [Instacart Data Sets](https://www.instacart.com/datasets/grocery-shopping-2017)
 
 ## Tools used
 The data was analszed using Python and the following libraries:
-● Pandas: for data analysis
-● Numpy: for mathematical equations
-● Seaborn: for data visualizations
-● Matplotlib: for data visualizations
-● SciPy: for mathematical equations
+- Pandas: for data analysis
+- Numpy: for mathematical equations
+- Seaborn: for data visualizations
+- Matplotlib: for data visualizations
+- SciPy: for mathematical equations
 
 ## Stakeholders
 The insights derived from this analysis will cater to:
@@ -43,14 +43,11 @@ The goal is to align marketing strategies with customer preferences and uncover 
 
 ## Folder Breakdown
 
-01 Project Management: Project Brief & Data Dictionary.
+- 01 Project Management: Project Brief & Data Dictionary.
 
-● 03 Scripts: The Jupyter notebooks containing the Python coding for the analysis.
+- 03 Scripts: The Jupyter notebooks containing the Python coding for the analysis.
 
-● 04 Analysis - Visualizations subfolder contains the visualizations used for developing and explaining insights.
+- 04 Analysis - Visualisations subfolder contains the visualisations used for explaining insights.
 
-● 05 Sent to Client: The final report presented in Excel
+- 05 Sent to Client: The final report presented in Excel
 
-## Final Deliverable
-For a comprehensive view of my findings and recommendations, please refer to the 
- containing all data sets, graphs, and reports.
